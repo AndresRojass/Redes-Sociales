@@ -24,3 +24,11 @@ Twitter es una red social creada en el año 2006, y que en enero de 2020 tiene 3
 Lo utiliza todo tipo de personas, desde adolescentes a personas más mayores, y hasta empresas.
 Se utiliza generalmente para compartir opiniones reflexiones y “memes”, pero también es una fuente de información muy grande.
 Cuando haya una noticia importante, si eres un usuario activo, te enterarás antes por Twitter que por cualquier otro medio
+
+##whatsapp
+###Que es 
+WhatsApp es una aplicación de chat para teléfonos móviles de última generación, los llamados smartphones.
+ Sirve para enviar mensajes de texto y multimedia entre sus usuarios.
+ La aplicación permite, además del chat de texto, enviar fotografías, audio y vídeos. 
+ Tiene acceso directo a las llamadas convencionales, que se cobran por el operador de telefonía contratado, y a llamadas de WhatsApp, 
+ o incluso video llamadas, que se transmiten por internet y pueden, o bien salir gratis si estamos conectados a una wifi, o consumir datos.
