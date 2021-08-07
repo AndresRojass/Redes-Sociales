@@ -32,3 +32,14 @@ WhatsApp es una aplicación de chat para teléfonos móviles de última generaci
  La aplicación permite, además del chat de texto, enviar fotografías, audio y vídeos. 
  Tiene acceso directo a las llamadas convencionales, que se cobran por el operador de telefonía contratado, y a llamadas de WhatsApp, 
  o incluso video llamadas, que se transmiten por internet y pueden, o bien salir gratis si estamos conectados a una wifi, o consumir datos.
+
+ ##¿Qué son las Redes Sociales?
+###Una red social (en plural, redes sociales, abreviado como RR. SS.)1​ 
+es una estructura social compuesta
+ por un conjunto de actores y uno o más lazos o relaciones definidos entre ellos. 
+ Su estudio se remonta a los años 1930, con la creación de los sociogramas por parte de
+  Jacob Levy Moreno y Helen Hall Jennings, que dieron origen a la sociometría, precursora 
+  del análisis de redes sociales y buena parte de la psicología social.2​ Desde finales de 
+  los años 1940, se han estudiado además en profundidad mediante la teoría de grafos.3​ 
+  El análisis de redes sociales es un estudio interdisciplinario en el que confluyen las 
+  ciencias sociales y del comportamiento, así como matemáticas y estadísticas.2​
