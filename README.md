@@ -33,6 +33,7 @@ WhatsApp es una aplicación de chat para teléfonos móviles de última generaci
  Tiene acceso directo a las llamadas convencionales, que se cobran por el operador de telefonía contratado, y a llamadas de WhatsApp, 
  o incluso video llamadas, que se transmiten por internet y pueden, o bien salir gratis si estamos conectados a una wifi, o consumir datos.
 
+Instagram
  ##Instagram
  ###Esta aplicación en la que los usuarios suben fotos y vídeos, con opción de utilizar filtros y marcos proporcionados
   por la propia app, nació en octubre de 2010 en San Francisco de la mano de Kevin Systrom y Mike Krieger.
@@ -40,5 +41,16 @@ Systrom y Krieger, además de ser brillantes informáticos, son muy amantes de l
  instantánea requería de una cámara profesional. Sin embargo, a media que las cámaras de los teléfonos móviles fueron mejorando,
  decidieron que había una oportunidad en el mercado para la fotografía móvil.
 Al principio, la aplicación que idearon la bautizaron con el nombre de Burbn y era mucho más complicada que la que conocemos
- actualmente.
+actualmente.
 
+##¿Qué son las Redes Sociales?
+###Una red social (en plural, redes sociales, abreviado como RR. SS.)1​ 
+es una estructura social compuesta
+por un conjunto de actores y uno o más lazos o relaciones definidos entre ellos. 
+Su estudio se remonta a los años 1930, con la creación de los sociogramas por parte de
+Jacob Levy Moreno y Helen Hall Jennings, que dieron origen a la sociometría, precursora 
+del análisis de redes sociales y buena parte de la psicología social.2​ Desde finales de 
+los años 1940, se han estudiado además en profundidad mediante la teoría de grafos.3​ 
+El análisis de redes sociales es un estudio interdisciplinario en el que confluyen las 
+ciencias sociales y del comportamiento, así como matemáticas y estadísticas.2​
+main
