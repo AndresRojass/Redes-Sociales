@@ -32,3 +32,13 @@ WhatsApp es una aplicación de chat para teléfonos móviles de última generaci
  La aplicación permite, además del chat de texto, enviar fotografías, audio y vídeos. 
  Tiene acceso directo a las llamadas convencionales, que se cobran por el operador de telefonía contratado, y a llamadas de WhatsApp, 
  o incluso video llamadas, que se transmiten por internet y pueden, o bien salir gratis si estamos conectados a una wifi, o consumir datos.
+
+ ##Instagram
+ ###Esta aplicación en la que los usuarios suben fotos y vídeos, con opción de utilizar filtros y marcos proporcionados
+  por la propia app, nació en octubre de 2010 en San Francisco de la mano de Kevin Systrom y Mike Krieger.
+Systrom y Krieger, además de ser brillantes informáticos, son muy amantes de la fotografía. Para ellos, realizar una buena
+ instantánea requería de una cámara profesional. Sin embargo, a media que las cámaras de los teléfonos móviles fueron mejorando,
+ decidieron que había una oportunidad en el mercado para la fotografía móvil.
+Al principio, la aplicación que idearon la bautizaron con el nombre de Burbn y era mucho más complicada que la que conocemos
+ actualmente.
+
